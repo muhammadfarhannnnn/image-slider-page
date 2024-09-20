@@ -1,1 +1,1 @@
-i create a web agge for image slider using html and css
+i create a web page for image slider using html and css
